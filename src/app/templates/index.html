@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Monitoring Dashboard</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Latest Health Metrics</h1>
+        <ul class="list-group mt-4">
+            <li class="list-group-item">Heart Rate: {{ data['heart_rate'] }}</li>
+            <li class="list-group-item">Blood Oxygen: {{ data['blood_oxygen'] }}</li>
+            <li class="list-group-item">Activity Level: {{ data['activity_level'] }}</li>
+            <li class="list-group-item">Status: {{ data.get('anomaly', 'Normal') }}</li>
+            <li class="list-group-item">Recommendation: {{ data.get('recommendation', 'All metrics normal.') }}</li>
+        </ul>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
