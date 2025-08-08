@@ -43,3 +43,55 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+# Tshimo's Part - Documentation
+
+## 1. Documentation and Reporting
+Expand the project report to include:
+Detailed setup instructions (how to run the app, install dependencies, etc.).
+Explanation of the folder structure and where to find key files.
+User manual: how to use the web/mobile app, what each feature does.
+API documentation (if any endpoints are exposed).
+Description of the testing process (unit, integration, user testing).
+
+## 2. Visualizations and Screenshots
+- Add visuals to the report and presentation:
+- Screenshots of the user interface (web app).
+- Example outputs (anomaly alerts, recommendations).
+- Charts/graphs showing model performance (accuracy, confusion matrix, etc.).
+- Diagrams of system architecture or data flow.
+
+## 3. Presentation Preparation
+- Prepare a slide deck for presenting the project:
+- Project overview, objectives, and key features.
+- Methodology and results.
+- Visuals and screenshots.
+- Conclusions and future work.
+
+## 4. User Feedback Summary
+- Summarize user testing and feedback:
+- How user testing was conducted.
+- Key feedback points from users.
+- How feedback was used to improve the system.
+
+## 5. Compliance, Ethics, and Privacy
+- Write a section on data privacy and ethics:
+- How user data is protected.
+- Compliance with regulations (GDPR, HIPAA).
+- Ethical considerations in handling health data.
+
+## 6. References
+- Compile a references section:
+- Datasets used (e.g., PhysioNet).
+- Libraries and frameworks.
+- Any research papers or online resources referenced.
+
+Summary for Assignment
+- Assign a group member to:
+- Expand and polish the documentation and report.
+- Collect and insert screenshots/visuals.
+- Prepare the presentation slides.
+- Write the user feedback summary.
+- Add a section on compliance, ethics, and privacy.
+- Compile the references.
