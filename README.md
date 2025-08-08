@@ -88,7 +88,6 @@ Description of the testing process (unit, integration, user testing).
 - Any research papers or online resources referenced.
 
 Summary for Assignment
-- Assign a group member to:
 - Expand and polish the documentation and report.
 - Collect and insert screenshots/visuals.
 - Prepare the presentation slides.
